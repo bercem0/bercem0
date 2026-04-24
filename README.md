@@ -93,7 +93,7 @@ Groepsproject; klassiek X/O spel op hoofdpagina, JavaScript controleert wincondi
 
 - 🔗 LinkedIn: [LinkedIn](www.linkedin.com/in/bercem-yildirim-7767b0334)  
 
-- 🌐 Portfolio: [Portfolio Website]()  
+- 🌐 Portfolio: [Portfolio Website](https://bercem0.github.io)  
  
 ---
  
